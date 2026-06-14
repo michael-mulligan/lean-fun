@@ -1,6 +1,6 @@
 # lean-fun
 
-Lean 4 formalization accompanying the paper *Compression is all you need: Modeling Mathematics* (Aksenov, Bodnia, Freedman, Mulligan). It formalizes the Fibonacci-macro expansion theorem for the free abelian monoid $A_1 = \mathbb{N}$.
+Lean 4 formalization accompanying the paper [*Compression is all you need: Modeling Mathematics*](https://arxiv.org/abs/2603.20396) (Aksenov, Bodnia, Freedman, Mulligan). It formalizes the Fibonacci-macro expansion theorem for the free abelian monoid $A_1 = \mathbb{N}$.
 
 ## The theorem
 
